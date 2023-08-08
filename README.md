@@ -6,12 +6,12 @@ Laravel Breeze provides simple authentication features including login, registra
 
  <h3 style="text-align:center">Register</h3>
 
- <p align="center"><a h target="_blank"><img src="https://github.com/MogahidGaffar/Laravel-Auth-using-Breeze/blob/main/public/screenshots/register" height="300" width="500" ></a></p></br>
+ <p align="center"><a h target="_blank"><img src="https://github.com/MogahidGaffar/Laravel-Auth-using-Breeze/blob/main/public/screenshots/register.png" height="300" width="500" ></a></p></br>
 
  <h3 style="text-align:center">Login</h3>
 
- <p align="center"><a  target="_blank"><img src="https://github.com/MogahidGaffar/Laravel-Auth-using-Breeze/blob/main/public/screenshots/login" height="300" width="500"></a></p></br>
+ <p align="center"><a  target="_blank"><img src="https://github.com/MogahidGaffar/Laravel-Auth-using-Breeze/blob/main/public/screenshots/login.png" height="300" width="500"></a></p></br>
  <h3 style="text-align:center">Dashboard</h3>
 
- <p align="center"><a  target="_blank"><img src="https://github.com/MogahidGaffar/Laravel-Auth-using-Breeze/blob/main/public/screenshots/dashboard.webp" height="300" width="500"></a></p></br>
+ <p align="center"><a  target="_blank"><img src="https://github.com/MogahidGaffar/Laravel-Auth-using-Breeze/blob/main/public/screenshots/dashboard.png" height="300" width="500"></a></p></br>
 
